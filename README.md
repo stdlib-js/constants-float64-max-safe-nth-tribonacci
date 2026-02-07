@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-tribonacci@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-tribonacci@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT64_MAX_SAFE_NTH_TRIBONACCI
@@ -71,7 +71,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_TRIBONACCI === 63 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-tribonacci@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-tribonacci@v0.1.1-deno/mod.js';
 
 function tribonacci( n ) {
     var a;
